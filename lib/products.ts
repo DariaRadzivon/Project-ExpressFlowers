@@ -27,7 +27,7 @@ export const products: Product[] = [
   {
     id: "3",
     name: 'Букет "Червона пристрасть"',
-    description: "Класичний букет з червоних троянд премиум класу",
+    description: "Класичний букет з червоних троянд преміум класу",
     price: 1200,
     image: "/luxury-red-roses-bouquet.jpg",
     category: "Романтичні",
@@ -133,7 +133,7 @@ export const products: Product[] = [
     name: 'Композиція "Зимова казка"',
     description: "Святкова композиція з білих та срібних квітів",
     price: 1250,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "/winter-flowers.jpg",
     category: "Святкові",
   },
   {
@@ -141,7 +141,7 @@ export const products: Product[] = [
     name: 'Букет "М\'ятна свіжість"',
     description: "Освіжаючий букет з білих та м'ятних відтінків",
     price: 970,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "/white-flowers.jpg",
     category: "Ніжні",
   },
   {
@@ -149,7 +149,7 @@ export const products: Product[] = [
     name: 'Композиція "Бордова розкіш"',
     description: "Розкішна композиція з бордових троянд",
     price: 1380,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "/dark-red-flowers.jpg",
     category: "Елегантні",
   },
   {
@@ -157,7 +157,7 @@ export const products: Product[] = [
     name: 'Букет "Радість життя"',
     description: "Веселий мікс з різнокольорових гербер",
     price: 750,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "/gerber.jpg",
     category: "Яскраві",
   },
   {
@@ -165,7 +165,7 @@ export const products: Product[] = [
     name: 'Композиція "Vintage Romance"',
     description: "Ніжна композиція у вінтажному стилі",
     price: 1420,
-    image: "/placeholder.svg?height=400&width=400",
+    image: "/vintage.jpg",
     category: "Романтичні",
   },
 ]
