@@ -17,7 +17,7 @@ export async function POST(request: Request) {
     }
 
     // Шлях до папки з замовленнями
-    const ordersDir = join(process.cwd(), "orders")
+    const ordersDir = join(process.cwd(), "dw")
 
     // Створюємо папку, якщо вона не існує
     if (!existsSync(ordersDir)) {

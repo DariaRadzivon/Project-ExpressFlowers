@@ -1,0 +1,30 @@
+{
+  "orderId": "ORDER-1766002629156-O6UU0WY",
+  "user": {
+    "email": "23radzivon.d@nltu.lviv.ua",
+    "name": "Дарія",
+    "firstName": "Дарія",
+    "lastName": "Радзівон",
+    "phone": "0999999999"
+  },
+  "items": [
+    {
+      "id": "2",
+      "name": "Композиція \"Літній сад\"",
+      "price": 950,
+      "quantity": 1,
+      "image": "/bright-sunflowers-and-chrysanthemums-arrangement.jpg"
+    }
+  ],
+  "crystalService": true,
+  "deliveryMethod": "delivery",
+  "address": "вул. Природна 8",
+  "paymentMethod": "cash",
+  "costs": {
+    "items": 950,
+    "crystal": 50,
+    "delivery": 100,
+    "total": 1100
+  },
+  "timestamp": "2025-12-17T20:17:08.632Z"
+}
