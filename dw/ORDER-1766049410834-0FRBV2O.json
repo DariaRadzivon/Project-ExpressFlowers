@@ -1,0 +1,30 @@
+{
+  "orderId": "ORDER-1766049410834-0FRBV2O",
+  "user": {
+    "email": "qwerty@gmail.com",
+    "name": "Тетяна",
+    "firstName": "Тетяна",
+    "lastName": "Дзядзін",
+    "phone": "+380682345643"
+  },
+  "items": [
+    {
+      "id": "8",
+      "name": "Композиція \"Рожеві хмари\"",
+      "price": 1350,
+      "quantity": 1,
+      "image": "/pink-peony-roses-cloud-arrangement.jpg"
+    }
+  ],
+  "crystalService": true,
+  "deliveryMethod": "pickup",
+  "address": "Самовивіз",
+  "paymentMethod": "cash",
+  "costs": {
+    "items": 1350,
+    "crystal": 50,
+    "delivery": 0,
+    "total": 1400
+  },
+  "timestamp": "2025-12-18T09:16:50.255Z"
+}
